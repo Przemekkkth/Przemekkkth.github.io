@@ -12,7 +12,7 @@ This is clone of TwiniGolf which is created in Qt.It based on this [repo](https:
 
 * **Twini-Golf**
 
-![Image](https://user-images.githubusercontent.com/28188300/220647627-86142c77-d9e4-4ff4-b86c-60aec208cba5.gif)
+![Image](https://github.com/Przemekkkth/TwiniGolf_Qt_Cpp/blob/master/doc/out.gif)
 
 
 [Source code](https://github.com/Przemekkkth/TwiniGolf_Qt_Cpp)
