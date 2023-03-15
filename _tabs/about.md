@@ -4,13 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 ## Summary
-I am C++ developer. I like programming apps and games. I use Qt/C++ to many projects. 
-Mainly I develop games and share they on my personal github. I like python and graphics libray 
-SFML and I hope share many projects. See my portfolio with projects.
+I am a C++ developer with a passion for programming apps and games. I frequently use Qt/C++ in many of my projects, primarily focusing on game development. I enjoy working with Python and graphics libraries like SFML, and I hope to share more projects in the future. Please take a look at my portfolio to see some of my work.
 
 ## Skills
 *  C++ including standards C++11, C++14, C+17

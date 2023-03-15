@@ -8,6 +8,9 @@ tags: [maze, generator, visualization]
 
 # Maze Generator
 
+A maze generator is a software program or algorithm that creates random mazes with different shapes, sizes, and complexity levels. The generator typically starts with a grid of cells, and then randomly removes walls to create paths between cells, until a maze is formed. The generated maze can be represented in various formats, such as ASCII characters or graphical images.
+
+
 
 * **Maze Generator**
 
