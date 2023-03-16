@@ -7,7 +7,9 @@ tags: [pathfinding, algorithm, visualization]
 ---
 
 # Shadow casting 2D
-Simple visual representation of shadow casting in 2D space.
+
+Shadow casting is a technique used in 2D computer graphics to simulate lighting and shadows in a scene. It involves tracing rays from a light source and determining which objects in the scene are occluding the light. This information is then used to create realistic shadows that appear to be cast by the objects in the scene.
+
 
 
 * **Shadow casting 2D**

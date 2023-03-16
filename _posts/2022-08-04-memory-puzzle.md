@@ -7,7 +7,10 @@ tags: [memorypuzzle, game]
 ---
 
 # Memory Puzzle
-Simple memory game.
+Memory puzzle is a game that tests a player's ability to remember the location of matching pairs of tiles. The game is typically played on a board that is filled with tiles that are face down. Each card or tile has a picture or symbol on it, and there are usually several pairs of matching pictures or symbols.
+
+The objective of the game is to turn over pairs of matching tiles, by selecting two at a time, and remembering their location if they are not a match. If the tiles match, they are removed from the board, and the player scores points. If they do not match, they are turned back over, and the player must remember their location for future turns.
+
 
 * **Memory Puzzle**
 

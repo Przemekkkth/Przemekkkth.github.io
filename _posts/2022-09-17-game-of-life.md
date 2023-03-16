@@ -7,6 +7,7 @@ tags: [life, generator, visualization]
 ---
 
 # Game of life
+The Game of Life is a simulation game that was first introduced by British mathematician John Conway in 1970. The game is played on a grid of cells, which can be either "alive" or "dead". Each cell is affected by its eight neighboring cells, and the state of each cell changes based on certain rules.
 
 
 * **Game of life**

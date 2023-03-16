@@ -10,7 +10,7 @@ tags: [tetris, pageviews]
 Hi,
 This is first article.  I wrote a few simple games in Qt. List of them:
 
-* **tetris**
+* **Tetris**
 
 Tetris is a classic puzzle game that was first released in 1984. The game is played on a grid and the objective is to stack falling blocks, known as tetrominoes, in a way that creates complete horizontal lines. As the game progresses, the blocks fall faster and the player must use quick thinking and strategy to keep the game going. The game ends when the stack of blocks reaches the top of the screen. Tetris has been ported to numerous platforms, including arcade machines, consoles, and mobile devices. The game's popularity soared in the late 1980s and early 1990s, becoming a cultural phenomenon. There are many different versions of Tetris, including competitive multiplayer modes and special editions themed around popular franchises. The game's simple yet addictive gameplay has made it a timeless classic that continues to captivate players to this day.
 

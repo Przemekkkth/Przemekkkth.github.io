@@ -7,7 +7,12 @@ tags: [perlinnoise, visualization]
 ---
 
 # Perlin noise
-Perlin noise is a type of gradient noise developed by Ken Perlin [wikipedia](https://en.wikipedia.org/wiki/Perlin_noise).
+
+Perlin noise is a type of procedural noise algorithm used in computer graphics and computer-generated images. It was developed by Ken Perlin in 1983 and is widely used in 3D modeling, animation, and game development.
+
+Perlin noise is a random function that generates a sequence of smooth, continuous values that can be used to simulate natural-looking textures, patterns, and shapes. It is created by combining a set of gradient vectors with a randomly generated lattice structure. The algorithm works by interpolating between the gradient vectors to produce a smooth, undulating pattern.
+
+Perlin noise can be used to create a variety of effects, such as clouds, fire, water, terrain, and natural landscapes. It is often used in video games to generate procedural textures and terrain, allowing for more dynamic and realistic environments. It is also used in animation and film production to create special effects and to simulate natural phenomena.
 
 * **Perlin noise**
 
